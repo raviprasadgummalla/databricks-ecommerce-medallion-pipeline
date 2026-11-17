@@ -93,7 +93,7 @@ Cancelled and unavailable orders are excluded from revenue reports.
 
 | Dashboard | Job run |
 |-----------|---------|
-| ![Dashboard](screenshots/<<DASHBOARD_FILE>>.png) | ![Job run](screenshots/<<JOB_FILE>>.png) |
+| ![Dashboard](screenshots/<<DASHBOARD_FILE>>.png) | ![Job run](screenshots/<<screenshots/Screenshot 2026-11-17 174212>>.png) |
 
 ## 8. How to run it
 
